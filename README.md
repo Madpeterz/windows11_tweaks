@@ -4,5 +4,5 @@
 - Restore right click menus [\[Readme\]](restore_right_click_menu/steps.md) [\[Reg patch\]](restore_right_click_menu/patch.reg)
 
 
-restore_right_click_menu/video.mp4
+![Drag Racing](restore_right_click_menu/video.webp)
 
